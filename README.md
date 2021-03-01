@@ -1,7 +1,8 @@
 # DataStructures
+
 Java implementation of basic data structures
 
-Will include:
+## Will include:
 arrays
 linked lists (singly and doubly)
 trees
